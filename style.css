@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+.conversor{
+    height: 300px;
+    width: 400px;
+    margin-left: 35%;
+    margin-top: 10%;
+    border-radius: 10%;
+    border-style: ridge;
+    background-color: rgb(189, 189, 189);
+    
+}
+.convert{
+    margin-left: 30%;
+}
+.input{
+    margin-bottom: 1%;
+    margin-left: 10%;
+}
+p{
+    margin-left: 10%;
+}
+.enter{
+    margin-left: 30%;
+}
